@@ -1,6 +1,8 @@
 # CDC_immunization
 This project explores the relationships in between different vaccines and the sex, age and other basic features in the data.
 
+Note - The data used is 39 MB > 25 MB, and hence can't be uploaded here. Reach out to me at "tuj86429@temple.edu" if you have any questions. 
+
 Note: This project was a part of the Coursera course, "Introduction to Data Science in Python" offered by University of Michigan.
 
 The code has 4 parts corresponding to 4 questions as seen below:
